@@ -1,0 +1,24 @@
+{
+  "name": "reactnewsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nopperabou0/reactNewsApp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nopperabou0/reactNewsApp/issues"
+  },
+  "homepage": "https://github.com/nopperabou0/reactNewsApp#readme",
+  "devDependencies": {
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
