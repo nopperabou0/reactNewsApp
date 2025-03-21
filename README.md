@@ -18,6 +18,7 @@ http://localhost:8080/
 
 React is stupid why the tutorial assume i use framework ????
 javascript also stupid, i hate it.
+route, bootstrap, wtf is that !? , i dont think i need it for now
 
 react is confusing
 
@@ -25,3 +26,4 @@ react is confusing
 - Create a React Project From Scratch Without any Framework : https://hackteam.io/blog/create-react-project-from-scratch-without-framework/
 - https://react.dev/learn/tutorial-tic-tac-toe
 - https://news.ycombinator.com/news
+- https://github.com/simranlotey/react-news-app

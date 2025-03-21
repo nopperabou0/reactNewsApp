@@ -9,6 +9,13 @@ module.exports = {
           loader:'babel-loader',
         },
       },
+      {
+        test: /\.css$/, // Process .css files
+        use: [
+          'style-loader', // Injects styles into the DOM
+          'css-loader' // Interprets @import and url() like import/require() and will resolve them.
+        ],
+      },
     ],
   },
   plugins: [
